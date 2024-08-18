@@ -19,3 +19,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+#### 2.2 **package.json**
+
+This file will define your project's metadata and dependencies.
+
+```json
+{
+  "name": "digital-twin-ai-agents-on-hadera",
+  "version": "1.0.0",
+  "description": "AI agents as digital twins, leveraging Hedera Hashgraph for secure and efficient communication.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/testCases.js"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.0.0",
+    "twilio": "^3.63.0",
+    "nodemailer": "^6.6.3"
+  },
+  "author": "Will Wagner",
+  "license": "MIT"
+}
