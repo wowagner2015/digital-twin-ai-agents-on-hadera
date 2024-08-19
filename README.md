@@ -15,8 +15,6 @@ This slogan represents INWGR's approach to AI development, where strategic, calc
 
 ## Project Structure
 
-## Project Structure
-
 - **config/**: Configuration files and settings.
 - **src/**: Source code for the project.
   - **hedera/**: Hedera Hashgraph client and topic management.
