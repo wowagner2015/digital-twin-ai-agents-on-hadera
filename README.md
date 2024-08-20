@@ -14,11 +14,12 @@ This vision aligns with the theoretical foundations laid out by thought leaders 
 
 ## About INWGR
 
-**Intelligent Network of World-Generative Resources (INWGR)** is a forward-thinking initiative focused on leveraging AI to drive innovation and intelligent decision-making. The long-term vision of INWGR is to integrate decentralized communication protocols, enabling secure, scalable, transparent, and autonomous communication among AI agents in a future where AGI and SGI are prevalent.
+**Intelligent Network of World-Generative Resources (INWGR)** is a forward-thinking initiative dedicated to leveraging AI to drive groundbreaking innovation and real-world action. 
+Pronounced "IN-Wager," INWGR's mission is to create a future where decentralized communication protocols enable secure, scalable, transparent, and autonomous interactions among AI agents. This becomes increasingly critical as we advance toward Artificial General Intelligence (AGI) and Superintelligent General Intelligence (SGI).
 
 ### Our Vision: "In-Wagering on Innovation, Winning with Intelligence"
 
-This slogan encapsulates INWGR's approach to AI development, where strategic, calculated risks are taken to advance innovation and deliver intelligent solutions. It reflects our commitment to leveraging AI for groundbreaking advancements while ensuring security, efficiency, and transparency.
+This slogan encapsulates INWGR's strategic approach to AI development, where calculated risks are embraced to push the boundaries of innovation and deliver intelligent, impactful solutions. We are committed to creating AI that not only informs decisions but also takes action, prioritizing security, efficiency, and transparency. Our mission is to ensure that these advancements contribute positively to society, adhering to ethical standards while driving meaningful and actionable results.
 
 ## Whitepaper: Integrating Decentralized Communication Protocols for AI Agents
 
