@@ -81,7 +81,6 @@ Integrating a decentralized and transparent communication protocol is a forward-
   - **utils/**: Utility functions like logging.
   - **test/**: Test cases for the project.
 
-```markdown
 ## Setup
 
 ### Step-by-Step Instructions
