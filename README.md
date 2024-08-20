@@ -10,6 +10,16 @@ This project involves the development of AI agents that act as digital twins for
 
 This slogan encapsulates INWGR's approach to AI development, where strategic, calculated risks are taken to advance innovation and deliver intelligent solutions. It reflects our commitment to leveraging AI for groundbreaking advancements while ensuring security, efficiency, and transparency.
 
+## Project Goals
+
+### Short-Term Goals
+
+- **AI Agents as Digital Twins:** Focus on developing AI agents that can interact with current communication interfaces like phone calls, emails, and messages. This will involve creating AI agents that serve as digital twins of real users, handling mundane tasks and automating interactions with both humans and other AI agents.
+
+### Long-Term Vision
+
+- **Hedera Hashgraph as a Communication Network Protocol:** The ultimate goal is to transition these AI agents into a decentralized communication network where they can operate independently using Hedera Hashgraph as the underlying protocol. This aligns with the theoretical foundations laid out by thought leaders like Harari, Minsky, Goertzel, and Saliba.
+
 ## Whitepaper: Integrating Decentralized Communication Protocols for AI Agents
 
 ### Title:
