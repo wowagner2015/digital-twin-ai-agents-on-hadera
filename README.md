@@ -34,7 +34,7 @@ The rise of AGI and SGI presents unprecedented opportunities and significant ris
    - Dr. Ben Goertzel advocates for AI systems that are open, interoperable, and capable of collaborating across different platforms. His vision aligns with the integration of decentralized and transparent protocols into the Linux kernel, enabling AGI agents to communicate and cooperate securely, scalably, and adaptably.
 
 4. **Toufi Saliba and the Decentralization of AI**:
-   - Toufi Saliba emphasizes the importance of security, scalability, transparency, and trust in distributed networks. He advocates for decentralized protocols that provide the autonomy and resilience necessary for AI agents to operate independently and securely, without reliance on centralized control.
+   - Toufi Saliba emphasizes the importance of security, scalability, transparency, and trust in distributed networks. He advocates for decentralized protocols that provide the autonomy and resilience necessary for AI agents to operate independently and securely, without reliance on centralized control. The latest version of the TODA/IP protocol, co-authored by Toufi Saliba, offers a groundbreaking approach to managing and transmitting unique value representations at the network packet level, further supporting the vision of decentralized AI communication.
 
 ### Why Hedera Hashgraph is the Optimal DLT for AI Communication
 
@@ -65,6 +65,18 @@ The rise of AGI and SGI presents unprecedented opportunities and significant ris
 ### Conclusion
 
 Integrating a decentralized and transparent communication protocol into the Linux kernel is a forward-looking step toward supporting the next generation of AI agents. By leveraging the theoretical foundations provided by Harari, Minsky, Goertzel, and Saliba, and the technological advantages of Hedera Hashgraph, we justify this integration as essential for enabling secure, scalable, transparent, and autonomous interactions among AGI and SGI agents.
+
+### Future Work
+Continue enhancing AI agents to support more communication interfaces and complex tasks.
+Prototype and test the integration of Hedera Hashgraph with Linux kernel communication protocols.
+Engage with the open-source community and contribute to relevant projects.
+
+### Key References
+Harari, Yuval Noah. Homo Deus: A Brief History of Tomorrow. Harper, 2017.
+Minsky, Marvin. The Society of Mind. Simon & Schuster, 1986.
+Goertzel, Ben. Artificial General Intelligence: Concept, State of the Art, and Future Prospects. Frontiers in Robotics and AI, 2014.
+Saliba, Toufi, and Dann Toliver. TODA/IP Protocol V2.3: Managing and Transmitting Unique Value Representation at the Network Packet Level. October 2019.
+Hedera Hashgraph. Hedera Hashgraph GitHub Repository.
 
 ## Project Structure
 
