@@ -81,17 +81,3 @@ Integrating a decentralized and transparent communication protocol into the Linu
 
 ```bash
 npm install
-
-## Future Work
-
-- Continue enhancing AI agents to support more communication interfaces and complex tasks.
-- Prototype and test the integration of Hedera Hashgraph with Linux kernel communication protocols.
-- Engage with the open-source community and contribute to relevant projects.
-
-## Key References
-
-- Harari, Yuval Noah. *Homo Deus: A Brief History of Tomorrow*. Harper, 2017.
-- Minsky, Marvin. *The Society of Mind*. Simon & Schuster, 1986.
-- Goertzel, Ben. *Artificial General Intelligence: Concept, State of the Art, and Future Prospects*. Frontiers in Robotics and AI, 2014.
-- Saliba, Toufi. [Paper on Decentralization]. [Publisher/Conference].
-- Hedera Hashgraph. [Hedera Hashgraph GitHub Repository](https://github.com/hashgraph/hedera).
