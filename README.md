@@ -81,9 +81,131 @@ Integrating a decentralized and transparent communication protocol is a forward-
   - **utils/**: Utility functions like logging.
   - **test/**: Test cases for the project.
 
+```markdown
 ## Setup
 
-### Install dependencies:
+### Step-by-Step Instructions
+
+This section provides detailed steps to set up your environment and install necessary dependencies for the "Digital Twin AI Agents on Hedera" project. Follow these instructions carefully to ensure everything is correctly configured.
+
+#### Step 1: Install npm
+
+Attempt to run `npm install` to verify if npm is installed:
 
 ```bash
 npm install
+```
+
+If you receive an error like `zsh: command not found: npm`, proceed to the next step to install Homebrew and Node.js.
+
+#### Step 2: Install Homebrew
+
+Homebrew is a package manager for macOS that simplifies the installation of software. Use the following command to install Homebrew:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+During the installation, you may be prompted to enter your password. After installation, Homebrew will provide further instructions to finalize the setup.
+
+#### Step 3: Install Node.js Using Homebrew
+
+After Homebrew is installed, you can install Node.js by running:
+
+```bash
+brew install node
+```
+
+This will install Node.js along with npm. You should see confirmation messages such as:
+
+```text
+🍺  /opt/homebrew/Cellar/node/22.6.0: 2,058 files, 81.9MB
+```
+
+#### Step 4: Install NVM (Node Version Manager)
+
+NVM allows you to manage multiple versions of Node.js. Install NVM with the following command:
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+```
+
+After installation, restart your terminal or run the following commands to start using NVM immediately:
+
+```bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+```
+
+#### Step 5: Install Node.js Using NVM
+
+Now, install the latest version of Node.js using NVM:
+
+```bash
+nvm install node
+```
+
+Verify the installation by checking the versions:
+
+```bash
+node -v
+npm -v
+```
+
+#### Step 6: Clone the Project Repository
+
+Navigate to your projects directory and clone the repository:
+
+```bash
+mkdir -p ~/Documents/Projects
+cd ~/Documents/Projects
+git clone https://github.com/wowagner2015/digital-twin-ai-agents-on-hadera.git
+```
+
+If the directory already exists, ensure you are in the correct location and that it's empty before cloning.
+
+#### Step 7: Navigate to the Project Directory
+
+After cloning, move into the project directory:
+
+```bash
+cd digital-twin-ai-agents-on-hadera
+```
+
+#### Step 8: Initialize npm and Create `package.json`
+
+If the `package.json` file does not exist, initialize npm to create one by running:
+
+```bash
+npm init
+```
+
+Follow the prompts, providing the required details:
+
+- `package name`: `digital-twin-ai-agents-on-hadera`
+- `version`: `1.0.0`
+- `description`: `Digital Twin AI Agents on Hedera`
+- `entry point`: `index.js`
+- `test command`: `echo "Error: no test specified" && exit 1`
+- `git repository`: `https://github.com/wowagner2015/digital-twin-ai-agents-on-hadera.git`
+- `keywords`: `AI, digital twin, Hedera, blockchain, decentralized, automation, task automation, Node.js, AI agents, decentralized communication, AGI, SGI`
+- `author`: `Will Wagner`
+- `license`: `MIT`
+
+#### Step 9: Install Project Dependencies
+
+Finally, install all necessary dependencies by running:
+
+```bash
+npm install
+```
+
+This command will install all packages listed under dependencies in the `package.json` file.
+
+### Additional Notes
+
+- Ensure that you are in the correct project directory and that the `package.json` file exists before running `npm install`.
+- Regularly update your Node.js and npm to keep your environment up-to-date.
+- If you encounter any errors during `npm install`, revisit the previous steps to ensure everything was set up correctly.
+```
