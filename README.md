@@ -1,6 +1,16 @@
 # Digital Twin AI Agents on Hedera
 
-This project involves the development of AI agents that act as digital twins for humans, automating a wide range of tasks such as interacting with external services (phone calls, emails, and messages), conducting online job searches, analyzing financial data for investment opportunities, scheduling appointments and recording them into calendars, finding deals and discounts, negotiating better rates, and more. These agents serve as personal assistants, taking over mundane chores that are not enjoyable, saving valuable time and money for users. They monitor ongoing tasks, analyze data from various sources, and ensure optimal outcomes, all while securely logging actions on Hedera Hashgraph.
+This project focuses on developing AI agents that act as digital twins for humans, automating a broad range of tasks both in the short term and with a long-term vision. These tasks include interacting with external services (such as phone calls, emails, and messages), conducting online job searches, analyzing financial data for investment opportunities, scheduling appointments and recording them into calendars, finding deals and discounts, negotiating better rates, and more. These agents serve as personal assistants, taking over mundane chores that are not enjoyable, thereby saving users valuable time and money. They monitor ongoing tasks, analyze data from various sources, and ensure optimal outcomes, all while securely logging actions on Hedera Hashgraph.
+
+## Short-Term Goals
+
+In the short term, the project emphasizes developing AI agents that can interact with current communication interfaces like phone calls, emails, and messages. These AI agents will utilize Hedera Hashgraph's smart contracts to automate and enforce specific tasks, ensuring they are completed according to predefined rules. Additionally, the AI agents will securely log all actions and interactions on the Hedera Hashgraph network, providing transparency, security, and traceability—crucial for building trust and reliability in AI-driven interactions.
+
+## Long-Term Vision
+
+The long-term goal is to transition these AI agents into a decentralized communication network where they can operate independently using Hedera Hashgraph as the underlying protocol. As AI agents evolve toward greater autonomy, they will continue to leverage Hedera Hashgraph's smart contracts to autonomously execute more complex tasks and manage interactions. These agents will operate under ethical guidelines designed to "do no harm," contributing positively to society by adhering to rules that ensure they act in humanity's best interest.
+
+This vision aligns with the theoretical foundations laid out by thought leaders like Yuval Noah Harari, Marvin Minsky, Dr. Ben Goertzel, and Toufi Saliba. Integrating decentralized communication protocols with Hedera Hashgraph ensures that AI agents can interact securely, scalably, and transparently, both in the immediate future and as the technology matures.
 
 ## About INWGR
 
@@ -9,16 +19,6 @@ This project involves the development of AI agents that act as digital twins for
 ### Our Vision: "In-Wagering on Innovation, Winning with Intelligence"
 
 This slogan encapsulates INWGR's approach to AI development, where strategic, calculated risks are taken to advance innovation and deliver intelligent solutions. It reflects our commitment to leveraging AI for groundbreaking advancements while ensuring security, efficiency, and transparency.
-
-## Project Goals
-
-### Short-Term Goals
-
-- **AI Agents as Digital Twins:** Focus on developing AI agents that can interact with current communication interfaces like phone calls, emails, and messages. This will involve creating AI agents that serve as digital twins of real users, handling mundane tasks and automating interactions with both humans and other AI agents.
-
-### Long-Term Vision
-
-- **Hedera Hashgraph as a Communication Network Protocol:** The ultimate goal is to transition these AI agents into a decentralized communication network where they can operate independently using Hedera Hashgraph as the underlying protocol. This aligns with the theoretical foundations laid out by thought leaders like Harari, Minsky, Goertzel, and Saliba.
 
 ## Whitepaper: Integrating Decentralized Communication Protocols for AI Agents
 
@@ -29,7 +29,7 @@ This slogan encapsulates INWGR's approach to AI development, where strategic, ca
 The rapid advancement in Artificial General Intelligence (AGI) and Superintelligent General Intelligence (SGI) presents new challenges for secure, transparent, and efficient communication between AI agents. This paper proposes integrating a decentralized communication protocol, leveraging Hedera Hashgraph, as an essential component for the future of AGI/SGI, ensuring secure, scalable, transparent, and autonomous communication channels.
 
 ### Introduction:
-The rise of AGI and SGI presents unprecedented opportunities and significant risks. As AI systems become more sophisticated and autonomous, their ability to communicate effectively, securely, and transparently becomes crucial. Current communication protocols are inadequate for the complex and dynamic interactions required by AGI/SGI agents. By integrating a decentralized communication protocol, we can provide a robust foundation for AI agents to interact in a secure, scalable, and transparent manner.
+The rise of AGI and SGI presents unprecedented opportunities and significant risks. As AI systems become more sophisticated and autonomous, their ability to communicate effectively, securely, and transparently becomes crucial. Current communication protocols are inadequate for the complex and dynamic interactions required by AGI/SGI agents. By integrating a decentralized communication protocol, we can provide a robust foundation for AI agents to interact securely, scalably, and transparently.
 
 ### Theoretical Background:
 1. **Yuval Noah Harari’s Perspective on Future AI**:
