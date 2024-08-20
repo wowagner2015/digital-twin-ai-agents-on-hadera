@@ -77,7 +77,7 @@ Engage with the open-source community and contribute to relevant projects.
 - **Minsky, Marvin**: The Society of Mind. Simon & Schuster, 1986.
 - **Goertzel, Ben**: Artificial General Intelligence: Concept, State of the Art, and Future Prospects. Frontiers in Robotics and AI, 2014.
 - **Saliba, Toufi, and Dann Toliver**: TODA/IP Protocol V2.3: Managing and Transmitting Unique Value Representation at the Network Packet Level. October 2019.
-- **Hedera Hashgraph**: Hedera Hashgraph GitHub Repository.
+- **Hedera Hashgraph**: Hedera Hashgraph GitHub Repository: https://github.com/hashgraph
 
 ## Project Structure
 
