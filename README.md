@@ -52,7 +52,13 @@ The rise of AGI and SGI presents unprecedented opportunities and significant ris
 - **Energy Efficiency**: Hedera Hashgraph consumes significantly less energy compared to traditional Proof-of-Work (PoW) blockchains like Bitcoin, making it a green and sustainable choice.
 - **Security and Resilience**: The aBFT consensus ensures that the system remains secure and operational even if part of the network is compromised, essential for AI communications.
 
-### Proposed System Architecture
+## Integrating Hedera/TODA/IP Protocol
+
+This project includes a thorough justification for integrating the Hedera/TODA/IP protocol into the Linux Kernel's networking stack, specifically for AI agent interactions. This document details the security, scalability, and efficiency benefits of this integration.
+
+For detailed information, please refer to [Justification for Integrating Hedera/TODA/IP Protocol](path/to/your/justification-document.md).
+
+## Proposed System Architecture
 
 - **Overview of Hedera Hashgraph**: Utilizing the gossip-about-gossip protocol combined with virtual voting, Hedera Hashgraph efficiently processes transactions in parallel, allowing the network to reach finality in seconds.
 - **Application-Level Integration**: The integration involves creating application-level modules that handle communication between AI agents, leveraging Hedera’s consensus mechanism to validate and timestamp each message.
