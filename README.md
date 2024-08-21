@@ -56,7 +56,7 @@ The rise of AGI and SGI presents unprecedented opportunities and significant ris
 
 This project includes a thorough justification for integrating the Hedera/TODA/IP protocol into the Linux Kernel's networking stack, specifically for AI agent interactions. This document details the security, scalability, and efficiency benefits of this integration.
 
-For detailed information, please refer to [Justification for Integrating Hedera/TODA/IP Protocol](path/to/your/justification-document.md).
+For detailed information, please refer to [Justification for Integrating Hedera/TODA/IP Protocol](docs/Hedera_TODA_IP_Kernel_Integration.md)
 
 ## Proposed System Architecture
 
